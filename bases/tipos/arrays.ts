@@ -8,4 +8,6 @@
   const villians = ['Omega Rojo', 'Dormamu', 'Duende Verde'];
 
   villians.forEach(v => console.log(v.toUpperCase()))
+
+  numbers1.forEach(number => console.log(number))
 })();
